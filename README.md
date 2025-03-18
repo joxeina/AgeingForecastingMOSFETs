@@ -5,11 +5,3 @@ The Code folder includes Jupyter Notebooks with (i) short-term Temporal Fusion T
 
 
 # How to cite
-
-@mastersthesis{Wagenaar2023,
-  author  = {Wagenaar, Thomas},
-  title   = {Physics-informed neural networks for highly compressible flows: assessing and enhancing shock-capturing capabilities},
-  school  = {Delft University of Technology},
-  year    = 2023,
-  month   = {September}
-}
