@@ -1,6 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-type: article
+type: "article"
 authors:
 - family-names: "Villalobos"
   given-names: "Adrian"
@@ -17,5 +16,4 @@ journal: "Engineering Applications of Artificial Intelligence"
 volume: 150
 year: 2025
 doi: "10.1016/j.engappai.2025.110545"
-date-released: 2025-03-20
 url: "https://www.sciencedirect.com/science/article/pii/S0952197625005457"
