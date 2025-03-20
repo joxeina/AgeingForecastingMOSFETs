@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-type = article
+type: article
 authors:
 - family-names: "Villalobos"
   given-names: "Adrian"
