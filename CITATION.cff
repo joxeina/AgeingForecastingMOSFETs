@@ -14,7 +14,7 @@ authors:
     given-names: "Jose I."
 doi: "10.1016/j.engappai.2025.110545"
 url: "https://www.sciencedirect.com/science/article/pii/S0952197625005457"
-type: "article"
+type: "generic"
 journal: "Engineering Applications of Artificial Intelligence"
 volume: "150"
 pages: "110545"
